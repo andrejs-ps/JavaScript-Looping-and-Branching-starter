@@ -1,0 +1,1 @@
+let stocks = ['Apple', 'Google','Microsoft', 'Verizon'];
